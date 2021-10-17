@@ -1,2 +1,1 @@
-# Projeto_Salinidade
-Todo o pipeline de processamento dos dados do projeto 
+![Pipeline dos dados](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/pipeline.jpg)
