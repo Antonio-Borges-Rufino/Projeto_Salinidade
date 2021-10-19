@@ -14,4 +14,7 @@
   2. [Organizando os dados do tipo tsg](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/1.%20Preparando%20dados%20em%20Situ/Passo%202.%20(tsg).ipynb)
 ## 4. Separando os dados em situ em arquivos Ano-Mes
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/Separacao_ano_mes.ipynb)
+## 5. Transformação dos dados (Nesse processo vou deixar o dataset pronto para poder extrair imagens de satélite)
+  1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/Tranformacao.ipynb)
+
 
