@@ -16,5 +16,9 @@
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/Separacao_ano_mes.ipynb)
 ## 5. Transformação dos dados (Nesse processo vou deixar o dataset pronto para poder extrair imagens de satélite)
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/Tranformacao.ipynb)
+## 6. Extração dos dados de satélite
+  1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/Extra%C3%A7%C3%A3o.ipynb)
+## 7. Junção dos dados de satélite em df anuais
+  1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/juncao.ipynb)
 
 
