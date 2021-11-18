@@ -20,5 +20,7 @@
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/Extra%C3%A7%C3%A3o.ipynb)
 ## 7. Junção dos dados de satélite em df anuais
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/juncao.ipynb)
+## 8. Criação da base de batimetria
+  1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/rasterBatimetria.ipynb)
 
 
