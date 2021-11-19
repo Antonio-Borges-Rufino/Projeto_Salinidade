@@ -25,6 +25,6 @@
 ## 9. Junção e criação do dataset final, é dele que vai ser tirado os dados de validação e treinamento
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/dataSetFinal.ipynb) 
 ## 10. Divisão do dataset em dados de treinamento e dados de teste
-  1. [Codigo}(https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/divisaoNormalizacao.ipynb)
+  1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/divisaoNormalizacao.ipynb)
   2. [Dataset de teste](https://drive.google.com/file/d/1-9WllvpwlAM9IOit5eoBvNk1G7pXqZf-/view?usp=sharing)
   3. [Dataset de treino](https://drive.google.com/file/d/1-3ZdBaUFueaxyLsxLu_F4m3AfFkQfuYu/view?usp=sharing)
