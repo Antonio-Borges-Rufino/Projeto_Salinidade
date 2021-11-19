@@ -22,5 +22,6 @@
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/juncao.ipynb)
 ## 8. Criação da base de batimetria
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/rasterBatimetria.ipynb)
-
+## 9. Junção e criação do dataset final, é dele que vai ser tirado os dados de validação e treinamento
+  1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/dataSetFinal.ipynb) 
 
