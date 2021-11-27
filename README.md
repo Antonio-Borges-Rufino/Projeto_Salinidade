@@ -30,5 +30,6 @@
   3. [Dataset de treino](https://drive.google.com/file/d/1-3ZdBaUFueaxyLsxLu_F4m3AfFkQfuYu/view?usp=sharing)
 ## 11. Tunning de parametros de rede densa
   1. O tunning de parametros foi realizado com a seguinte distribuição
-  2. 
+  2. ![Parametros do Tunning](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tnn.jpg)
   3. O resultado para o tunning foi a rede densa de 2 camadas com 30 neuronios em cada camada, taxa de aprendizagem de 0.001 com otimizador Adan e 39 epocas para um micro batch de 120
+  4. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningDenseR.ipynb)
