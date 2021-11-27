@@ -30,7 +30,7 @@
   3. [Dataset de treino](https://drive.google.com/file/d/1-3ZdBaUFueaxyLsxLu_F4m3AfFkQfuYu/view?usp=sharing)
 ## 11. Tunning de parametros de rede densa
   1. O tunning de parametros foi realizado com a seguinte distribuição
-    *Camadas ocultas|Neuronios|Taxa de aprendizagem|Função de aprendizagem| Epocas
+Camadas ocultas|Neuronios|Taxa de aprendizagem|Função de aprendizagem| Epocas
 ---------------|---------|--------------------|---------|---------|
         1      |  10-x+10-40   | 0.001 - 0.01       |Relu| 10-x+10- 100      
         2      |  10-x+10-40    | 0.001 - 0.01       |Relu|10-x+10- 100
