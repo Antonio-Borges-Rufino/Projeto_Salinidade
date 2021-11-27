@@ -28,3 +28,13 @@
   1. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/divisaoNormalizacao.ipynb)
   2. [Dataset de teste](https://drive.google.com/file/d/1-9WllvpwlAM9IOit5eoBvNk1G7pXqZf-/view?usp=sharing)
   3. [Dataset de treino](https://drive.google.com/file/d/1-3ZdBaUFueaxyLsxLu_F4m3AfFkQfuYu/view?usp=sharing)
+## 11. Tunning de parametros de rede densa
+  1. O tunning de parametros foi realizado com a seguinte distribuição
+    *Camadas ocultas|Neuronios|Taxa de aprendizagem|Função de aprendizagem| Epocas
+---------------|---------|--------------------|---------|---------|
+        1      |  10-x+10-40   | 0.001 - 0.01       |Relu| 10-x+10- 100      
+        2      |  10-x+10-40    | 0.001 - 0.01       |Relu|10-x+10- 100
+        3      |  10-x+10-40    | 0.001 - 0.01       | Relu|10-x+10- 100
+        4      |  10-x+10-40    | 0.001 - 0.01       | Relu| 10-x+10- 100
+        5      |  10-x+10-40    | 0.001 - 0.01       | Relu | 10-x+10- 100
+  2. O resultado para o tunning foi a rede densa de 2 camadas com 30 neuronios em cada camada, taxa de aprendizagem de 0.001 com otimizador Adan e 39 epocas para um micro batch de 120
