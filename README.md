@@ -33,3 +33,11 @@
   2. ![Parametros do Tunning](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tnn.jpg)
   3. O resultado para o tunning foi a rede densa de 2 camadas com 30 neuronios em cada camada, taxa de aprendizagem de 0.001 com otimizador Adan e 39 epocas para um micro batch de 120
   4. [Codigo](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningDenseR.ipynb)
+## 12. Tunning de parametros de redes LSTM E GRU
+  1. O tunning de parametros foi realizado com a seguinte distribuição
+  2. ![Parametros do Tunning](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/lstm-gru.jpg)
+  3. Resultados:
+      LSTM: rede com 30 neuronios, taxa de aprendizagem de 0.007 e 85 epocas
+      GRU: rede com 85 neuronios, taxa de aprendizagem de 0.001 e 99 epocas
+  5. [Codigo - LSTM](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningLSTM.ipynb)
+  6. [Codigo - GRU](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningGRU.ipynb)
