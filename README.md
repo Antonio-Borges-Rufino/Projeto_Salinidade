@@ -37,6 +37,7 @@
   1. O tunning de parametros foi realizado com a seguinte distribuição
   2. ![Parametros do Tunning](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/lstm-gru.jpg)
   3. Resultados:
+      
       LSTM: rede com 30 neuronios, taxa de aprendizagem de 0.007 e 85 epocas
      
       GRU: rede com 85 neuronios, taxa de aprendizagem de 0.001 e 99 epocas
