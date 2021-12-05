@@ -43,3 +43,13 @@
       GRU: rede com 85 neuronios, taxa de aprendizagem de 0.001 e 99 epocas
   5. [Codigo - LSTM](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningLSTM.ipynb)
   6. [Codigo - GRU](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningGRU.ipynb)
+## 13. Tunning de parametros de redes Bi-LSTM E Bi-GRU
+  1. O tunning de parametros foi realizado com a seguinte distribuição
+  2. ![Parametros do Tunning](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/lstm-gru.jpg)
+  3. Resultados:
+      
+      Bi-LSTM: rede com 60 neuronios, taxa de aprendizagem de 0.005 e 98 epocas
+     
+      Bi-GRU: rede com 75 neuronios, taxa de aprendizagem de 0.001 e 100 epocas
+  5. [Codigo - Bi-LSTM](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningBi_Gru.ipynb)
+  6. [Codigo - Bi-GRU](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/tunningBi_LSTM.ipynb)
